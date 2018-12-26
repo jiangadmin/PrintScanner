@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">扫码出库</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="author_info">版权所有:湖南荣泰新材料科技有限公司</string>
+    <string name="app_introduce"> </string>
+    <string name="strPoint">指示器</string>
+    <string name="immediatelyEnter">立即进入</string>
+    <string name="login">登录</string>
+    <string name="register_info">点击"注册"即意味着您已经阅读并同意</string>
+</resources>
